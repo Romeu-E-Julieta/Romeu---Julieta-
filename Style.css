@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background: #fdf2f8;
+  color: #3f3f46;
+}
+
+header {
+  background: linear-gradient(135deg, #e11d48, #be123c);
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+nav a {
+  color: white;
+  margin: 0 12px;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+main {
+  padding: 30px;
+  background: white;
+  margin: 20px;
+  border-radius: 10px;
+}
+
+a.botao {
+  display: inline-block;
+  padding: 14px 20px;
+  background: #e11d48;
+  color: white;
+  text-decoration: none;
+  border-radius: 25px;
+  font-weight: bold;
+}
+
+footer {
+  background: #881337;
+  color: #ffe4e6;
+  text-align: center;
+  padding: 15px;
+  }
